@@ -6,7 +6,7 @@ EC2:
 	 - Accelerated computing - use hardware accelerators, or coprocessors, to perform some ==functions more efficiently== than is possible in software running on CPU's.
 	 - Storage optimized - designed for workloads that require high, sequential read and write access to large ==datasets== on local storage.
 	**Pricing:**
-	 - On-demand
+	 - On-demand - ideal for short term, irregular workload that cannot be interrupted. No upfront costs or min. contracts apply. Instances run continuously
 
 
 Elastic Load Balancing(ELB):

@@ -7,6 +7,8 @@ EC2:
 	 - Storage optimized - designed for workloads that require high, sequential read and write access to large ==datasets== on local storage.
 	**Pricing:**
 	 - On-demand - ideal for short term, irregular workload that cannot be interrupted. No upfront costs or min. contracts apply. Instances run continuously
+	 - Reserved Instances - Billing a discount applied to the use of On-Demand Instances in your account
+	 - test
 
 
 Elastic Load Balancing(ELB):
